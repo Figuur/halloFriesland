@@ -1,2 +1,1 @@
 <h1> Hallo Friesland </h1>
-<h2> Heyo, hallo</h2>
